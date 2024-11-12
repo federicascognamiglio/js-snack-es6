@@ -7,6 +7,8 @@ const bikes = [
     { nome: "bike5", peso: 50 },
 ];
 
+// ESECUZIONE LOGICA
+
 /**
  * Funzione che calcola il peso minore tra gli elementi di un array
  * @param {array} array
